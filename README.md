@@ -2,6 +2,7 @@
 In diesem Respository gilt es, Barrieren im täglichen Leben abzubauen, um dadurch eine praktikable Umgehung zu finden. Egal ob Verzeichnis, Meldedienst, Helferservice oder Roboterassistenzsystem – hilft es der Teilhabe bei Einschränkungen in der Mobilität, ist dies das Repository, aus dem gebrancht werden sollte.
 
 ## Bisher erstellte Projekte
+[GehstockNavi](https://github.com/aktionmensch/GehstockNavi)
 
 ## Die anderen zwei Repositories
 [Inclusion Promoting Lifehacks](https://github.com/NeueNaeheHackathon/InclusionPromotingLifehacks)
