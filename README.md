@@ -4,6 +4,8 @@ In diesem Respository gilt es, Barrieren im täglichen Leben abzubauen, um dadur
 ## Bisher erstellte Projekte
 [GehstockNavi](https://github.com/aktionmensch/GehstockNavi)
 
+[RoboterArmSteuerung](https://github.com/aktionmensch/RoboterArmSteuerung)
+
 ## Die anderen zwei Repositories
 [Inclusion Promoting Lifehacks](https://github.com/NeueNaeheHackathon/InclusionPromotingLifehacks)
 [Interchangeable Communication](https://github.com/NeueNaeheHackathon/InterchangeableCommunication)
