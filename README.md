@@ -8,6 +8,8 @@ In diesem Respository gilt es, Barrieren im täglichen Leben abzubauen, um dadur
 
 [TuerOeffnerApp](https://github.com/tfriedsam/TuerOeffnerApp)
 
+[HilfeanfrageApp](https://github.com/tfriedsam/HilfeanfrageApp)
+
 ## Die anderen zwei Repositories
 [Inclusion Promoting Lifehacks](https://github.com/NeueNaeheHackathon/InclusionPromotingLifehacks)
 [Interchangeable Communication](https://github.com/NeueNaeheHackathon/InterchangeableCommunication)
