@@ -6,9 +6,17 @@ In diesem Respository gilt es, Barrieren im täglichen Leben abzubauen, um dadur
 
 [RoboterArmSteuerung](https://github.com/aktionmensch/RoboterArmSteuerung)
 
+<<<<<<< HEAD
 [TuerOeffnerApp](https://github.com/tfriedsam/TuerOeffnerApp)
 
 [HilfeanfrageApp](https://github.com/tfriedsam/HilfeanfrageApp)
+=======
+[VRBrille](https://github.com/aktionmensch/VRBrille)
+
+[ErkennungsApp](https://github.com/aktionmensch/ErkennungsApp)
+
+[Treppenfaehiger Rollstuhl](https://github.com/Rollinator/treppenfaehiger-Rollstuhl)
+>>>>>>> refs/remotes/origin/master
 
 ## Die anderen zwei Repositories
 [Inclusion Promoting Lifehacks](https://github.com/NeueNaeheHackathon/InclusionPromotingLifehacks)
